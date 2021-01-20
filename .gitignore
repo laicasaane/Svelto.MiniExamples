@@ -1,6 +1,3 @@
-*.csproj.*
-Example2-Survival/Assets/Plugins/
-Example2-Survival/Assets/Plugins.meta
 Library/
 Temp/
 .idea/
@@ -10,33 +7,45 @@ obj/
 Recordings/
 *.user
 Example2-Survival/webgl/
-Example2-Survival/Assets/StreamingAssets/aa/WebGL/Default Local Group_UnityBuiltInShaders_d4cf385d0cf73c18917bc94797edb628.bundle.meta
-Example2-Survival/Assets/StreamingAssets/
-Example2-Survival/Assets/StreamingAssets.meta
-Example2-Survival/Assembly-CSharp-Editor.csproj
-Example1-DoofusesMustEat/Iteration2-Burst/Svelto.Tasks.csproj
-Example1-DoofusesMustEat/Iteration2-Burst/Svelto.Pool.Debugger.csproj
-Example1-DoofusesMustEat/Iteration2-Burst/Svelto.ECS.csproj
-Example1-DoofusesMustEat/Iteration2-Burst/Svelto.ECS.Components.Unity.csproj
-Example2-Survival/Svelto.Pool.Debugger.csproj
-Example2-Survival/Svelto.ECS.csproj
-Example2-Survival/Svelto.ECS.Debugger.csproj
-Example2-Survival/Example2-Survival.sln
-Example2-Survival/Assets/Svelto/Svelto.ECS/Svelto.ECS.csproj
-Example2-Survival/Assembly-CSharp.csproj
-Example2-Survival/Svelto.ECS.Debugger.Editor.csproj
-Example2-Survival/Svelto.ECS.Components.Unity.csproj
-Example1-DoofusesMustEat/Iteration2-Burst/Svelto.Tasks.StopEditorThread.csproj
-Example2-Survival/Svelto.Tasks.csproj
-Example2-Survival/Svelto.Tasks.StopEditorThread.csproj
-Example2-Survival/Svelto.Common.csproj
-Example1-DoofusesMustEat/Iteration2-Burst/Svelto.Common.csproj
-Example1-DoofusesMustEat/Iteration2-Burst/Assembly-CSharp.csproj
+Example2-Survival/Build/
+Example2-Survival/Packages/packages-lock.json
 Example1-DoofusesMustEat/Iteration2-Burst/Build/
-Example2-Survival/webgl2/
-Example1-DoofusesMustEat/Iteration3-Jobs/Build/Svelto.ECS.MiniExamples_Data/sharedassets0.assets
 Example1-DoofusesMustEat/Iteration3-Jobs/Build/
-*.csproj
-*.sln
 Example1-DoofusesMustEat/Iteration3-Jobs/UserSettings/
 Example1-DoofusesMustEat/Iteration3-Jobs/IL2CPP/
+Example1-DoofusesMustEat/Iteration3-Jobs/Logs/
+Example2-Survival/Assets/StreamingAssets/
+Example4-SDL/com.sebaslab.svelto.ecs@3.0.0/bin/
+Example4-SDL/SDL/bin/
+Example4-SDL/SveltoDeterministic2DPhysicsDemo/bin/
+Example4-SDL/FixedMath/bin/
+Example4-SDL/com.sebaslab.svelto.ecs@3.1.0/bin/
+Example1-DOTS-DoofusesMustEat/Iteration3-Jobs/IL2CPP/
+Example2-Unity Hybrid-Survival/Build/
+Example4-NET-SDL/SveltoDeterministic2DPhysicsDemo/bin/Debug/netcoreapp3.1/Svelto.Common.pdb
+Example4-NET-SDL/SDL/bin/
+Example4-NET-SDL/FixedMath/bin/
+Example4-NET-SDL/SveltoDeterministic2DPhysicsDemo/bin/
+Example4-NET-SDL/com.sebaslab.svelto.ecs@3.1.0/bin/Debug/netstandard2.0/Svelto.Common.pdb
+Example4-NET-SDL/com.sebaslab.svelto.ecs@3.1.0/bin/
+Example2-Unity Hybrid-Survival/UserSettings/
+Example4-NET-SDL/*.meta
+Example2-Unity Hybrid-Survival/Logs/
+Example6-Unity Hybrid-OOP Abstraction/UserSettings/
+Example6-Unity Hybrid-OOP Abstraction/Logs/
+Example1-DOTS-DoofusesMustEat/DOOFUSES_UECS/IL2CPP/Svelto.ECS.MiniExamples_BackUpThisFolder_ButDontShipItWithYourGame/Managed/Unity.Mathematics.Extensions.dll
+Example1-DOTS-DoofusesMustEat/DOOFUSES_UECS/IL2CPP/
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/Build/
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/Assembly-CSharp.csproj
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/Assembly-CSharp-Editor.csproj
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/Svelto.Common.csproj
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/Svelto.ECS.csproj
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/Svelto.Pool.Debugger.csproj
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/Svelto.Tasks.csproj
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/UserSettings/
+Example1-DOTS-DoofusesMustEat/DOOFUSES_GAMEOBJECTS/Logs/
+Example1-DOTS-DoofusesMustEat/DOOFUSES_UECS/UserSettings/
+Example1-DOTS-DoofusesMustEat/DOOFUSES_UECS/Logs/
+*.meta
+Example5-Net-Vanilla/Svelto.ECS.Example/bin/
+Example4-NET-SDL/com.sebaslab.svelto.ecs/bin/
